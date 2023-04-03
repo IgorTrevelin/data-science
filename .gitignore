@@ -157,3 +157,8 @@ cython_debug/
 
 # Data folders
 data/
+
+*.zip
+*.rar
+*.7z
+*.tar
