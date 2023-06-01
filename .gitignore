@@ -162,3 +162,7 @@ data/
 *.rar
 *.7z
 *.tar
+
+*.pkl
+
+.vscode/
