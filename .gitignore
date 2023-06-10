@@ -166,3 +166,5 @@ data/
 *.pkl
 
 .vscode/
+
+input/
